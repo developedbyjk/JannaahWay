@@ -4,7 +4,7 @@ export default function Navbar() {
     return (
         <>
         
-        i am navbar
+        {/* i am navbar */}
         
         </>
     )
