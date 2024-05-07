@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Navbar from './components/Navbar'
 
 import './App.css'
 
@@ -7,7 +8,8 @@ function App() {
 
   return (
     <>
-      Jannaah Way 🌹
+      <Navbar />
+      Insallah our website will be update soon 🌹
     </>
   )
 }
