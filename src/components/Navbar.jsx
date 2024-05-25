@@ -4,7 +4,11 @@ export default function Navbar() {
     return (
         <>
         
-        {/* i am navbar */}
+            <nav>
+                <ul>
+                    <li><a href="#"></a></li>
+                </ul>
+            </nav>
         
         </>
     )
